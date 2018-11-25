@@ -10,7 +10,7 @@
 
 #### Runing the server on your local machine
 
-1.Access the directory: /teste-veek <br/>
+1.Access the directory: /quotes <br/>
 2.Type the following command on your terminal:
 ><em>npm start</em>
 
